@@ -1,2 +1,2 @@
-# madelinezug.github.io
-Takes and Tastes website
+# Takes and Tastes
+Download on the Apple app store
